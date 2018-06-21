@@ -26,7 +26,7 @@ namespace JSONDemo
             base.ViewDidLoad();
 
             tblEmpList = new UITableView();
-            tblEmpList.Frame = new CoreGraphics.CGRect(x: 10, y: 10, width: 500, height: 600);
+            tblEmpList.Frame = new CoreGraphics.CGRect(x: 5, y: 5, width: 500, height: 600);
             tblEmpList.DataSource = table;
             tblEmpList.Delegate = table;
 
