@@ -1,0 +1,15 @@
+/Users/bpawar/Projects/JSONDemo/JSONDemo/bin/iPhone/Debug/JSONDemo.exe
+/Users/bpawar/Projects/JSONDemo/JSONDemo/bin/iPhone/Debug/JSONDemo.pdb
+/Users/bpawar/Projects/JSONDemo/JSONDemo/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/bpawar/Projects/JSONDemo/JSONDemo/bin/iPhone/Debug/RestSharp.dll
+/Users/bpawar/Projects/JSONDemo/JSONDemo/bin/iPhone/Debug/Newtonsoft.Json.xml
+/Users/bpawar/Projects/JSONDemo/JSONDemo/obj/iPhone/Debug/device-builds/iphone7.1-11.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/bpawar/Projects/JSONDemo/JSONDemo/obj/iPhone/Debug/device-builds/iphone7.1-11.3.1/actool/_PartialAppManifest.items
+/Users/bpawar/Projects/JSONDemo/JSONDemo/obj/iPhone/Debug/device-builds/iphone7.1-11.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/bpawar/Projects/JSONDemo/JSONDemo/obj/iPhone/Debug/device-builds/iphone7.1-11.3.1/optimized/
+/Users/bpawar/Projects/JSONDemo/JSONDemo/obj/iPhone/Debug/JSONDemo.csprojResolveAssemblyReference.cache
+/Users/bpawar/Projects/JSONDemo/JSONDemo/obj/iPhone/Debug/JSONDemo.csproj.CoreCompileInputs.cache
+/Users/bpawar/Projects/JSONDemo/JSONDemo/obj/iPhone/Debug/JSONDemo.exe
+/Users/bpawar/Projects/JSONDemo/JSONDemo/obj/iPhone/Debug/JSONDemo.pdb
+/Users/bpawar/Projects/JSONDemo/JSONDemo/obj/iPhone/Debug/device-builds/iphone7.1-11.3.1/coremlc/_PartialAppManifest.items
+/Users/bpawar/Projects/JSONDemo/JSONDemo/obj/iPhone/Debug/device-builds/iphone7.1-11.3.1/coremlc/_BundleResourceWithLogicalName.items
