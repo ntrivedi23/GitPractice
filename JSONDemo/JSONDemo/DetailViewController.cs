@@ -31,7 +31,7 @@ namespace JSONDemo
             base.ViewDidLoad();
 
             tblEmpList = new UITableView();
-            tblEmpList.Frame = new CoreGraphics.CGRect(x: 5, y: 5, width: 5, height: 5);
+            tblEmpList.Frame = new CoreGraphics.CGRect(x: 5, y: 5, width: 502, height: 598);
             tblEmpList.backgroundcolor = UIColor.LightGrey;
            
             tblEmpList.DataSource = table;
